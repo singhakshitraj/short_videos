@@ -20,6 +20,7 @@ Widget parentData(BuildContext context, Video parentVideo) {
                 const SizedBox(width: 10),
                 CachedNetworkImage(
                   imageUrl: parentVideo.thumbnailUrl.toString(),
+                  width: MediaQuery.of(context).size.width * 0.3,
                 ),
                 const SizedBox(width: 10),
                 Expanded(

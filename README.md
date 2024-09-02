@@ -16,3 +16,6 @@ The Videos are in a bottom-scrollable mode and its replies can be obtained by ho
 ### State Management
 For management of states of the application, BLoC is used. The reason for choosing BLoC is because of its scaling abilities. If any changes or updates need to be made in the future, we can make them very easily with BLoC.
 
+## Functioning
+The Functioning of the tha application can be viewed from -
+https://drive.google.com/file/d/1QzF0FFp5HBHzHOGgMt2MggXL1txxXcgZ/view
